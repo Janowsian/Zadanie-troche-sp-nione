@@ -1,1 +1,3 @@
-# Zadanie-troche-sp-nione
+# funkcja kwadratowa
+Jan Owsiany
+
